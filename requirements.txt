@@ -1,6 +1,6 @@
 flask
 opencv-python
 deepface==0.0.93
-numpy
+numpy==1.26.4
 tensorflow==2.15.0
 gunicorn
